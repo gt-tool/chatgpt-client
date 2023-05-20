@@ -4,10 +4,10 @@ ChatGPT客户端版本，已支持安卓、Windows和Mac
 
 下载地址：
 
-[安卓](安装包/ChatGPT.apk)
+[安卓](https://wwbk.lanzoum.com/iQwP20wnu7qj)
 
-[Windows](安装包/ChatGPT%20Setup.exe)
+[Windows](https://wwbk.lanzoum.com/i55pb0wjekub)
 
-[Mac(Intel芯片)](安装包/ChatGPT-x64.dmg)
+[Mac(Intel芯片)](https://wwbk.lanzoum.com/iXYEE0wi6lud)
 
-[Mac(M芯片)](安装包/ChatGPT-arm64.dmg)
+[Mac(M芯片)](https://wwbk.lanzoum.com/i8NWh0whyvbg)
